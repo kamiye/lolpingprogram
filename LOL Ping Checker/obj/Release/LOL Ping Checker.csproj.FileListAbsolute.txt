@@ -8,3 +8,13 @@ c:\users\ye\documents\visual studio 2013\Projects\LOL Ping Checker\LOL Ping Chec
 c:\users\ye\documents\visual studio 2013\Projects\LOL Ping Checker\LOL Ping Checker\obj\Release\LOL Ping Checker.exe
 c:\users\ye\documents\visual studio 2013\Projects\LOL Ping Checker\LOL Ping Checker\obj\Release\LOL Ping Checker.pdb
 C:\Users\Ye\documents\visual studio 2013\Projects\LOL Ping Checker\LOL Ping Checker\obj\Release\LOL Ping Checker.csprojResolveAssemblyReference.cache
+C:\Users\Ye\Documents\GitHub\lolpingprogram\LOL Ping Checker\bin\Release\LOL Ping Checker.exe.config
+C:\Users\Ye\Documents\GitHub\lolpingprogram\LOL Ping Checker\obj\Release\LOL Ping Checker.exe
+C:\Users\Ye\Documents\GitHub\lolpingprogram\LOL Ping Checker\obj\Release\LOL Ping Checker.pdb
+C:\Users\Ye\Documents\GitHub\lolpingprogram\LOL Ping Checker\bin\Release\LOL Ping Checker.exe
+C:\Users\Ye\Documents\GitHub\lolpingprogram\LOL Ping Checker\bin\Release\LOL Ping Checker.pdb
+C:\Users\Ye\Documents\GitHub\lolpingprogram\LOL Ping Checker\obj\Release\LOL Ping Checker.csprojResolveAssemblyReference.cache
+C:\Users\Ye\Documents\GitHub\lolpingprogram\LOL Ping Checker\obj\Release\LOL_Ping_Checker.Form1.resources
+C:\Users\Ye\Documents\GitHub\lolpingprogram\LOL Ping Checker\obj\Release\LOL_Ping_Checker.Form2.resources
+C:\Users\Ye\Documents\GitHub\lolpingprogram\LOL Ping Checker\obj\Release\LOL_Ping_Checker.Properties.Resources.resources
+C:\Users\Ye\Documents\GitHub\lolpingprogram\LOL Ping Checker\obj\Release\LOL Ping Checker.csproj.GenerateResource.Cache
