@@ -1,0 +1,10 @@
+c:\users\ye\documents\visual studio 2013\Projects\LOL Ping Checker\LOL Ping Checker\bin\Debug\LOL Ping Checker.exe.config
+c:\users\ye\documents\visual studio 2013\Projects\LOL Ping Checker\LOL Ping Checker\bin\Debug\LOL Ping Checker.exe
+c:\users\ye\documents\visual studio 2013\Projects\LOL Ping Checker\LOL Ping Checker\bin\Debug\LOL Ping Checker.pdb
+c:\users\ye\documents\visual studio 2013\Projects\LOL Ping Checker\LOL Ping Checker\obj\Debug\LOL Ping Checker.csprojResolveAssemblyReference.cache
+c:\users\ye\documents\visual studio 2013\Projects\LOL Ping Checker\LOL Ping Checker\obj\Debug\LOL_Ping_Checker.Form1.resources
+c:\users\ye\documents\visual studio 2013\Projects\LOL Ping Checker\LOL Ping Checker\obj\Debug\LOL_Ping_Checker.Properties.Resources.resources
+c:\users\ye\documents\visual studio 2013\Projects\LOL Ping Checker\LOL Ping Checker\obj\Debug\LOL Ping Checker.csproj.GenerateResource.Cache
+c:\users\ye\documents\visual studio 2013\Projects\LOL Ping Checker\LOL Ping Checker\obj\Debug\LOL Ping Checker.exe
+c:\users\ye\documents\visual studio 2013\Projects\LOL Ping Checker\LOL Ping Checker\obj\Debug\LOL Ping Checker.pdb
+c:\users\ye\documents\visual studio 2013\Projects\LOL Ping Checker\LOL Ping Checker\obj\Debug\LOL_Ping_Checker.Form2.resources
