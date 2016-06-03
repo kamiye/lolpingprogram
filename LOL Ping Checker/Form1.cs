@@ -49,7 +49,7 @@ namespace LOL_Ping_Checker
                 {"EUNE", "104.160.142.3"},
                 {"OCE", "104.160.156.1"},
                 {"LAN", "104.160.136.3"},
-                {"BR", "8.23.24.100"}
+                {"BR", "104.160.152.3"}
             };
             label1.Text = "";
             timer1.Interval = 800;
